@@ -1,5 +1,5 @@
 {
-  "name": "slidev-hide-animation-problem-repro",
+  "name": "slidev-vclick-problem-repro",
   "type": "module",
   "private": true,
   "scripts": {
@@ -9,8 +9,7 @@
   },
   "dependencies": {
     "@slidev/cli": "^51.3.0",
-    "@slidev/theme-default": "latest",
-    "@slidev/theme-seriph": "latest",
+    "@slidev/theme-default": "^0.25.0",
     "vue": "^3.5.13"
   }
 }
